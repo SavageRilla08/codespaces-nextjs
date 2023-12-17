@@ -7,7 +7,7 @@ function throwError() {
   console.log(
     // The function body() is not defined
     document.body()
-  )
+  )gh repo clone ritwickdey/vscode-live-server
 }
 
 function Home() {
